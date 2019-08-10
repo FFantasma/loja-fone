@@ -16,4 +16,11 @@ Usamos ela para definir a navegação do usuário. Se você tem um texto que voc
 <a href="http://collabcode.training">CollabCode.Training</a>
 ```
 
+# CSS
+
+É uma linguagem de estilo, isso quer dizer que ela teem as seguintes responsabilidades:
+
+- Visual;
+
+
 

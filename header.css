@@ -1,0 +1,46 @@
+header {
+  background-color: #e24647;
+}
+
+nav {
+  text-align: right;
+
+}
+
+.LOGO {
+  color: #FFF;
+  font-size: 40px;
+  font-family: Arial;
+
+}
+
+.Busca {
+  color: #FFF;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.Produtos {
+  color: #FFF;
+  font-size: 21px;
+  font-family: Segoe UI;
+}
+
+.Serviços {
+  color: #FFF;
+  font-size: 21px;
+  font-family: Segoe UI;
+}
+
+.Carrinho {
+  color: #FFF;
+  font-size: 21px;
+  font-family: Segoe UI;
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+
