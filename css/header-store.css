@@ -1,9 +1,7 @@
-.header-store {
-  background-color: #e24647;
+.header-store {  
   color: #fff;
   overflow: hidden;
-  margin: 0 115px;
-  padding: 55px 60px 95px;
+  width: 80%;    
 }
 
 .title {
